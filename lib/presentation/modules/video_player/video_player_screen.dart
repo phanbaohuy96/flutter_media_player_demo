@@ -95,7 +95,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
           ),
           ThemeButton.primary(
             context: context,
-            title: 'Play',
+            title: 'Apply',
             onPressed: () {
               _controller
                 ..stop()
